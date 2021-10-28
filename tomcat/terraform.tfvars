@@ -1,4 +1,4 @@
-aws_profile      = "cnd"
+aws_profile      = "devops"
 aws_region	 = "us-east-1"
 private_key        = "~/.ssh/id_rsa"
 public_key_path = "~/.ssh/id_rsa.pub"
